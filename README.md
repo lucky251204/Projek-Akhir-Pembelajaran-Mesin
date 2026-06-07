@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Projek-Akhir-Pembelajaran-Mesin
-projek ini berisi tentang penggunaan CAE dalam menganalisis KAPASITAS RUANG LATEN PADA CONVOLUTIONAL AUTOENCODER DENGAN PENYELARASAN REPRESENTASI LINTAS MODALITAS BERBASIS RNN
-=======
 # Analisis Kapasitas Ruang Laten pada Convolutional Autoencoder dengan Penyelarasan Representasi Lintas Modalitas Berbasis RNN
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
@@ -208,4 +204,3 @@ Input [latent_dim]
 
 Program Studi S1 Sains Data — Universitas Negeri Surabaya (UNESA)
 Mata Kuliah Pembelajaran Mesin 2025/2026 Genap
->>>>>>> master
