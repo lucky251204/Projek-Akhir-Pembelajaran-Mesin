@@ -1,0 +1,2 @@
+# Projek-Akhir-Pembelajaran-Mesin
+projek ini berisi tentang penggunaan CAE dalam menganalisis KAPASITAS RUANG LATEN PADA CONVOLUTIONAL AUTOENCODER DENGAN PENYELARASAN REPRESENTASI LINTAS MODALITAS BERBASIS RNN
